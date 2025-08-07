@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MeshSpawn.cpp.obj": [
+			"MeshSpawn.init.gen.cpp.obj",
+			"MeshSpawnPreset.gen.cpp.obj",
+			"MeshSpawn.cpp.obj",
+			"MeshSpawnCommands.cpp.obj",
+			"MeshSpawnMode.cpp.obj",
+			"MeshSpawnPreset.cpp.obj",
+			"MeshSpawnStyle.cpp.obj",
+			"MeshSpawnToolkit.cpp.obj"
+		]
+	}
+}
