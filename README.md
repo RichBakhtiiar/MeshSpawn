@@ -4,7 +4,7 @@ The *MeshSpawn* plugin enables physically accurate placement of static meshes in
 
 <img width="730" height="263" alt="Screenshot_01" src="https://github.com/user-attachments/assets/b46ad7d5-a595-4ce5-8fac-a16038aa41f6" />
 
-## Installation guide
+## Installation Guide
 
 Go to your project folder and create a new folder with the name “Plugins”. Download and insert the plugin “MeshSpawn” folder inside your “Plugins” folder. The plugin is automatically turned on in the project now.
 <img width="534" height="293" alt="Screenshot_02" src="https://github.com/user-attachments/assets/82814690-c997-47e6-84a4-3eb7998512ff" />
